@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ldbod"]
+	path = ldbod
+	url = https://github.com/kwilliams83/ldbod
+	shallow = true
+	registered = true
